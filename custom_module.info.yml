@@ -1,0 +1,8 @@
+name : 'custom_module'
+description : 'custom_module'
+core: 8.x
+type: module
+
+dependencies:
+  - drupal:views
+  - drupal:domain_access
